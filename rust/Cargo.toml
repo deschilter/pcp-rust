@@ -16,5 +16,6 @@ members = [
     "example-trait-bounds",
     "example-traits-associated-types",
     "example-channels",
-    "example-threads"
+    "example-threads",
+    "philosophers-problem"
 ]
